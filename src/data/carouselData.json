@@ -1,0 +1,24 @@
+{
+  "slides": [
+    {
+      "src": "/images/Hiking.PNG",
+      "alt": "image of me hiking"
+    },
+    {
+      "src": "/images/yoga.PNG",
+      "alt": "me doing yoga in AZ"
+    },
+    {
+      "src": "/images/biking.PNG",
+      "alt": "biking in CO"
+    },
+    {
+      "src": "/images/lunch.PNG",
+      "alt": "lunch in AZ"
+    },
+    {
+      "src": "/images/skiing.PNG",
+      "alt": "skiing in CO"
+    }
+  ]
+}
